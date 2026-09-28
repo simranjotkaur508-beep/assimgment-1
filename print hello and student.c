@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("hello procoder \nstuudent");
+    printf("hello \nstuudent");
     return 0;
 
 }
